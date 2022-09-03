@@ -81,7 +81,7 @@ elif idioma == 'en':
     resp3 = input('Do you feel chills or shakes? ') ##
     resp4 = input('Do you feel muscle pain? ') #
     resp5 = input('Do you have a sore throat? ') #
-    resp6 = input('Já notou uma perda de gosto ou de cheiro? ') ####
+    resp6 = input('Have you noticed a loss of taste or smell? ') ####
     resp7 = input('Have you had nausea, vomiting, or diarrhea? ') #
     resp8 = input('Did you feel a headache? ') #
     resp9 = input('Fever sensation or fever measured greater than or equal to 37.8? ') ###
