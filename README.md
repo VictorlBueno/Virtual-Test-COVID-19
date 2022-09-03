@@ -9,7 +9,7 @@ Simple virtual anamnesis in Python with questions based on the World Health Orga
 WARNING: This test does not replace an anamnesis by a medical professional!
 
 # PT - Teste virtual para COVID-19 🦠
-Anamnese virtual simples em Python com perguntas baseadas no website da Organização Mundial de Saúde. O teste mede a gravidade da condição do usuário e tem dois idiomas, inglês e português.
+Anamnese virtual simples em Python com perguntas baseadas no website da Organização Mundial de Saúde. O teste mede a gravidade da condição do usuário e tem dois idiomas, Inglês e Português.
 
 AVISO: Este teste não substitui uma anamnese por um profissional médico!
 
