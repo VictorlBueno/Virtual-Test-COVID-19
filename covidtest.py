@@ -27,7 +27,7 @@ if idioma == 'pt':
     resp3 = input('Você sente calafrios ou tremores? ') ##
     resp4 = input('Você sente dor muscular? ') #
     resp5 = input('Você sente dor de garganta? ') #
-    resp6 = input('Percebeu perda do oufato ou paladar? ') ####
+    resp6 = input('Percebeu perda do olfato ou paladar? ') ####
     resp7 = input('Teve Náuseas, vomitou ou teve diarréia? ') #
     resp8 = input('Sentiu dor de cabeça? ') #
     resp9 = input('Sensação de febre ou febre medida maior ou igual a 37,8? ') ###
@@ -62,7 +62,7 @@ if idioma == 'pt':
     if pts >= 4 and pts <= 7:
         result = 'Sintomas leves de COVID ou outra doença. Vista uma máscara e mantenha a distância das pessoas, casos persistir, procure um médico.'
     if pts <= 3:
-        result = 'Não há sinal de COVID. Vista uma máscara e mantenha a distância das pessoas, casos dúvidas persistir, procure um médico.'
+        result = 'Não há sinal de COVID. Vista uma máscara e mantenha distância das pessoas, casos sua dúvida persista, procure um médico.'
 
     print(f'RESULTADO-------------------------------------------------------------------------------------------------')
     print(f'{result}')
@@ -116,7 +116,7 @@ elif idioma == 'en':
     if pts >= 4 and pts <= 7:
         result = 'Mild symptoms of COVID or other illness. Wear a mask and keep away from others; if this persists, seek medical attention.'
     if pts <= 3:
-        result = 'No sign of COVID. Wear a mask and keep a distance from people, if doubts persist, seek medical attention.'
+        result = 'No sign of COVID. Wear a mask and keep a distance from people, if your doubt persists, seek medical attention.'
 
     print(f'RESULT---------------------------------------------------------------------------------------------')
     print(f'{result}')
