@@ -1,0 +1,24 @@
+><a href="https://github.com/VictorlBueno/Virtual-Covid-Test/archive/refs/heads/main.zip" target="_blank">Download the Virtual Test</a></br>
+><a href="https://github.com/stars/VictorlBueno/lists/back-end" target="_blank">See more Back-end codes</a></br>
+>Virtual Test for COVID-19 available in <a href="https://github.com/VictorlBueno/Virtual-Covid-Test/new/main?readme=1#en---virtual-covid-19-test-" target="_blank">English</a> and <a href="https://github.com/VictorlBueno/Virtual-Covid-Test/new/main?readme=1#pt---teste-virtual-para-covid-19-" target="_blank">Portuguese</a>
+
+# EN - Virtual Test for COVID-19  🦠
+Simple virtual anamnesis in Python with questions based on the World Health Organization website. The test measures the severity of the user's condition and has two languages for use, English and Portuguese.
+
+This test is not a substitute for a professional medical history!
+
+# PT - Teste virtual para COVID-19 🦠
+Anamnese virtual simples em Python com perguntas baseadas no website da Organização Mundial de Saúde. O teste mede a gravidade da condição do utilizador e tem duas línguas para utilização, inglês e português.
+
+Este teste não substitui uma anamnese realizada por um profissional!
+
+# Languages 👨‍💻
+<ul>
+  <li>Python</li>
+</ul>
+ 
+# Social Networks 🔗
+<ul>
+<li><a href="https://www.linkedin.com/in/victorlbueno/" target="_blank">VictorlBueno</a> on LinkedIn</li>
+<li><a href="discordapp.com/users/Playsken#1180" target="_blank">Playsken#1180</a> on Discord</li>
+<li><a href="instagram.com/victorlbueno" target="_blank">@VictorlBueno</a> on Instagram</li></ul>
