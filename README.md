@@ -1,6 +1,6 @@
 ><a href="https://github.com/VictorlBueno/Virtual-Covid-Test/archive/refs/heads/main.zip" target="_blank">Download the Virtual Test</a></br>
 ><a href="https://github.com/stars/VictorlBueno/lists/back-end" target="_blank">See more Back-end codes</a></br>
->Virtual Test for COVID-19 available in <a href="https://github.com/VictorlBueno/Virtual-Covid-Test/new/main?readme=1#en---virtual-covid-19-test-" target="_blank">English</a> and <a href="https://github.com/VictorlBueno/Virtual-Covid-Test/new/main?readme=1#pt---teste-virtual-para-covid-19-" target="_blank">Portuguese</a>
+>Virtual Test for COVID-19 available in <a href="https://github.com/VictorlBueno/Virtual-Test-COVID-19/blob/main/README.md#en---virtual-test-for-covid-19--" target="_blank">English</a> and <a href="https://github.com/VictorlBueno/Virtual-Test-COVID-19/blob/main/README.md#pt---teste-virtual-para-covid-19-" target="_blank">Portuguese</a>
 
 # EN - Virtual Test for COVID-19  🦠
 Simple virtual anamnesis in Python with questions based on the World Health Organization website. The test measures the severity of the user's condition and has two languages for use, English and Portuguese.
