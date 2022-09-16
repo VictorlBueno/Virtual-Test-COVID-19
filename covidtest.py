@@ -1,21 +1,22 @@
 print('Choose a language - Escolha um idioma')
 idioma = input('English or/ou Português? ')
+idioma = idioma.upper()
 
 while True:
-    if 'En' in idioma or 'en' in idioma or 'ng' in idioma or 'gl' in idioma or 'li' in idioma or 'is' in idioma or 'sh' in idioma or 'EN' in idioma or 'NG' in idioma or 'GL' in idioma or 'LI' in idioma or 'IS' in idioma or 'SH' in idioma:
+    if 'EN' in idioma or 'NG' in idioma or 'GL' in idioma or 'LI' in idioma or 'IS' in idioma or 'SH' in idioma:
         idioma = 'en'
         break
     
-    elif 'Po' in idioma or 'po' in idioma or 'or' in idioma or 'rt' in idioma or 'tu' in idioma or 'ug' in idioma or 'gu' in idioma or 'ue' in idioma or 'uê' in idioma or 'es' in idioma or 'ês' in idioma or 'PO' in idioma or 'OR' in idioma or 'RT' in idioma or 'TU' in idioma or 'UG' in idioma or 'GU' in idioma or 'UE' in idioma or 'UÊ' in idioma or 'ES' in idioma or 'Ês' in idioma or 'pt' in idioma or 'PT' in idioma or 'Pt' in idioma:
-        idioma = 'pt'
+    elif 'PO' in idioma or 'OR' in idioma or 'TU' in idioma or 'GU' in idioma or 'ÊS' in idioma or 'ES' in idioma or 'PT' in idioma:
         break
 
     else:
         print('Opção inválida - Invalid option')
         print('Choose a language - Escolha um idioma')
         idioma = input('English or/ou Português? ')
+        idioma = idioma.upper()
 
-if idioma == 'pt':
+if idioma == 'PT':
     print('Teste Iniciado--------------------------------')
     print('Descubra se você está com COVID')
     print('Referência do teste: World Health Organization')
@@ -69,7 +70,7 @@ if idioma == 'pt':
     print(f'AVISO-----------------------------------------------------------------------------------------------------')
     print(f'Este teste é apenas uma Anamnese virtual, não tome nenhuma decisão sem antes consultar um médico!')
 
-elif idioma == 'en':
+elif idioma == 'EN':
     print('Test Started-----------------------------')
     print('Find out if you have COVID')
     print('Test reference: World Health Organization')
